@@ -1,0 +1,12 @@
+{
+  "checkpoint": "magnet_epoch12_loss7.28e-02.pth",
+  "checkpoint_sha256": "26c0e3ba528152d9219698ca4dac8a1924e3c4528f81277c3296fb7c034d4fae",
+  "parameters": 877968,
+  "source_commit": "be33c252f670bcb55d1442e30491584f9564a22d",
+  "opset": 17,
+  "max_validation_error": 1.6093254089355469e-06,
+  "models": {
+    "encoder.onnx": "8b989f3f40053a9355967ee0c12e33518c5ac9582b2abe2288caf9390b54f9a0",
+    "render.onnx": "dbcd6d931bfcf159c912ac4899fc03510aa7927e44acc650693a0d4bfc7d910c"
+  }
+}
